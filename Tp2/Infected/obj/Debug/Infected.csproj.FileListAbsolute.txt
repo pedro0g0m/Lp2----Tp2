@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\bin\Debug\Infected.exe.config
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\bin\Debug\Infected.exe
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\bin\Debug\Infected.pdb
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\obj\Debug\Infected.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\obj\Debug\Infected.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\obj\Debug\Infected.exe
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\obj\Debug\Infected.pdb
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\bin\Debug\FireSharp.dll
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\bin\Debug\RestSharp.dll
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\bin\Debug\RestSharp.xml
+C:\Users\Pedro\Desktop\Ipca\LP2\Tp2\Tp2\Infected\obj\Debug\Infected.csproj.CopyComplete
